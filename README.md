@@ -6,3 +6,6 @@ data: [letter freqinecues nd edu](https://www3.nd.edu/~busiforc/handouts/cryptog
 
 
 <img src="https://github.com/ClaireBookworm/30daychartchallenge/blob/main/day1-parttowhole.png" alt="day 1 screentime" width="800"/>
+
+
+![Day 2](https://github.com/ClaireBookworm/30daychartchallenge/blob/main/Day%202_%20Pictogram.png)
