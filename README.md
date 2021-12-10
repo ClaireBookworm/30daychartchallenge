@@ -9,3 +9,6 @@ data: [letter freqinecues nd edu](https://www3.nd.edu/~busiforc/handouts/cryptog
 
 
 ![Day 2](https://github.com/ClaireBookworm/30daychartchallenge/blob/main/Day%202_%20Pictogram.png)
+
+
+![Day 3](https://github.com/ClaireBookworm/30daychartchallenge/blob/main/Day%203_%20History%20-%20claire.png)
