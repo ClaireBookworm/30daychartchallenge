@@ -19,7 +19,7 @@ data: [letter freqinecues nd edu](https://www3.nd.edu/~busiforc/handouts/cryptog
 
 ![Day 12](https://github.com/ClaireBookworm/30daychartchallenge/blob/main/Day%2012_%20Strips%20(gene%20expression).png)
 
-![Day 13](https://github.com/ClaireBookworm/30daychartchallenge/blob/main/Day%2013_%20Correlation.png0)
+![Day 13](https://github.com/ClaireBookworm/30daychartchallenge/blob/main/Day%2013_%20Correlation.png)
 
 ![Day 23](https://github.com/ClaireBookworm/30daychartchallenge/blob/main/Day%2023_%20Tiles.png)
 
