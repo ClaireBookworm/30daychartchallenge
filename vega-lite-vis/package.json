@@ -1,0 +1,14 @@
+{
+  "name": "47f2966f5ac9108a",
+  "main": "47f2966f5ac9108a@142.js",
+  "version": "142.0.0",
+  "homepage": "https://observablehq.com/d/47f2966f5ac9108a",
+  "author": {
+    "name": "Claire Wang",
+    "url": "https://observablehq.com/@clairebookworm"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
