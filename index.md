@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# 30 day chart challenge
+^^ as the title suggests
 
-You can use the [editor on GitHub](https://github.com/ClaireBookworm/30daychartchallenge/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Day 1](https://github.com/ClaireBookworm/30daychartchallenge/blob/main/day1-vowels-claire.png)
+data: [letter freqinecues nd edu](https://www3.nd.edu/~busiforc/handouts/cryptography/letterfrequencies.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<img src="https://github.com/ClaireBookworm/30daychartchallenge/blob/main/day1-parttowhole.png" alt="day 1 screentime" width="800"/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+![Day 2](https://github.com/ClaireBookworm/30daychartchallenge/blob/main/Day%202_%20Pictogram.png)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+![Day 3](https://github.com/ClaireBookworm/30daychartchallenge/blob/main/Day%203_%20History.png)
 
-1. Numbered
-2. List
+![Day 4](https://github.com/ClaireBookworm/30daychartchallenge/blob/main/Day%204_%20Magical.png)
 
-**Bold** and _Italic_ and `Code` text
+this uses the palmer lake script font, which is magical in and of itself! 
 
-[Link](url) and ![Image](src)
+![Day 9](https://github.com/ClaireBookworm/30daychartchallenge/blob/main/Day%209_%20Statistics.png)
+
+![Day 12](https://github.com/ClaireBookworm/30daychartchallenge/blob/main/Day%2012_%20Strips%20(gene%20expression).png)
+
+*note*: you can find the code for this (scanpy) in the repo. this uses the pbmc3k dataset you can find online. here's the terminal commands to get the sample data.
+
+```python
+# !mkdir data
+# !wget http://cf.10xgenomics.com/samples/cell-exp/1.1.0/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz -O data/pbmc3k_filtered_gene_bc_matrices.tar.gz
+# !cd data; tar -xzf pbmc3k_filtered_gene_bc_matrices.tar.gz
+# !mkdir write`
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![Day 13](https://github.com/ClaireBookworm/30daychartchallenge/blob/main/Day%2013_%20Correlation.png)
 
-### Jekyll Themes
+![Day 23](https://github.com/ClaireBookworm/30daychartchallenge/blob/main/Day%2023_%20Tiles.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ClaireBookworm/30daychartchallenge/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+*note*: red based color tiles indicated disbelief, and blue/green based tiles mean belief. Messachusetts and California actually have the same percentage (77%) in 2021! 
 
-### Support or Contact
+![Day 24](https://github.com/ClaireBookworm/30daychartchallenge/blob/main/Day%2024_%20Monochrome.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*note*: If I'm being honest, I'm not entirely sure if this would count as a **data** visualization, but it is monochrome in a color palette sense. 
+
+![Day 27](https://github.com/ClaireBookworm/30daychartchallenge/blob/main/Day%2027_%20Educational.png)
+
+
